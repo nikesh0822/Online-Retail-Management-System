@@ -1,0 +1,22 @@
+
+.bg {
+	border-radius: 0px;
+	background: #0822B9;
+	
+	
+	border-collapse: separate;
+    margin-top:-8px;
+		margin-left:0px;
+	list-style-type: none;
+        padding: 0;
+	height:50px;
+	
+}
+h1{margin-top:13px;
+	color:#FFFFFF}
+body{
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+    padding: 0;
+    color: black; font-size: 10pt; font-family: "Trebuchet MS", sans-serif;
+	background:#E8E8E8;
+}
